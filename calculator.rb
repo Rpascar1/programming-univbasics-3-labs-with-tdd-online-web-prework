@@ -1,6 +1,6 @@
-first_number = 2
-second_number = 3.1
-sum = 5.1
-difference = -1.1
-product = 6.2
-quotient = .6452
+first_number = 6
+second_number = 3
+sum = 9
+difference = 3
+product = 12
+quotient = 2
